@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "NanumSquareNeo Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: local('NanumSquare Neo variable'),
+    url(./NanumSquareNeo-Variable.woff2) format("woff2");
+}
